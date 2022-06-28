@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
-global.owner = ['6285822347348'] 
+global.owner = ['6285715590172'] 
 global.mods = [] 
 global.prems = [''] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ArullOfc'
-global.numberowner = '6285822347348'
-global.instagram = 'https://instagram.com/sahrulwara_____'
-global.github = 'https://github.com/sahrull11'
-global.dana = '085822347348'
-global.pulsa = '085822347348,083843192208'
+global.nameowner = 'Danang.w.s'
+global.numberowner = '6285715590172'
+global.instagram = 'http://wa.me/6285715590172_____'
+global.github = 'https://github.com/Danangws'
+global.dana = 'chat owner'
+global.pulsa = 'chat owner'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ArullBotzMD'
-global.gc = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS'
-global.web = 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'Kawaii_Botz™✓'
+global.gc = 'https://wa.me/6285715590172'
+global.web = 'https://github.com/Danangws' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = 'Permanen 15.000\n1 bulan 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© AɾυʅʅBσƚȥMD'
+global.wm = '© Danant.w.s™✓'
 global.watermark = wm
-global.wm2 = '「 ArullBotzMD 」'
-global.wm3 = '© AɾυʅʅBσƚȥMD'
+global.wm2 = '「 Kawaii_Botz™✓ 」'
+global.wm3 = '© Danang.w.s™✓'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*Stiker sedang dibuat*'
 global.packname = 'Sticker By'
-global.author = '© ArullOfc'
+global.author = '©Danang.w.s™✓'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
