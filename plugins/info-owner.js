@@ -2,13 +2,13 @@ let handler  = async (m, { conn, usedPrefix }) => {
 conn.reply(m.chat, `
 ╭═══════════════════════
 ║╭──❉ 〔 INFO OWNER 〕 ❉────── 
-║│➸ ```NAMA``` : Arull
-║│➸ ```UMUR``` : 18thn
-║│➸ ```ASAL``` : KALIMANTAN SELATAN
-║│➸ ```OFFICIAL GRUP``` :
-https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS
-║│➸ ```ISTAGRAM``` : http://instagram.com/sahrulwara_____
-║│➸ ```WHATSAPP``` : http://wa.me/6285822347348
+║│➸ ```NAMA``` : D'anang wijaya saputra
+║│➸ ```UMUR``` : 20 th
+║│➸ ```ASAL``` : Lo Tau, Gw Jones ')
+║│➸ ```NO HP``` : 0857-1559-0172
+
+║│➸ ```GITHUB``` : http://github.com/Danangws_____
+║│➸ ```WHATSAPP``` : http://wa.me/6285715590172
 ╰────────❉
 `.trim(), m)
 }
